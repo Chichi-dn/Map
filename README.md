@@ -8,3 +8,4 @@ sqoop import \
 --hive-table your_hive_table \
 --create-hive-table \
 --target-dir /user/hive/warehouse/your_hive_database.db/your_hive_table
+https://www.kaggle.com/datasets/mrmars1010/cars-india-pre-owned
